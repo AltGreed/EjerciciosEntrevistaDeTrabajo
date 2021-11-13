@@ -1,0 +1,16 @@
+C:\Users\Greed\projectsC#\entrevista2\obj\Debug\net5.0\entrevista2.csproj.AssemblyReference.cache
+C:\Users\Greed\projectsC#\entrevista2\obj\Debug\net5.0\entrevista2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Greed\projectsC#\entrevista2\obj\Debug\net5.0\entrevista2.AssemblyInfoInputs.cache
+C:\Users\Greed\projectsC#\entrevista2\obj\Debug\net5.0\entrevista2.AssemblyInfo.cs
+C:\Users\Greed\projectsC#\entrevista2\obj\Debug\net5.0\entrevista2.csproj.CoreCompileInputs.cache
+C:\Users\Greed\projectsC#\entrevista2\bin\Debug\net5.0\entrevista2.exe
+C:\Users\Greed\projectsC#\entrevista2\bin\Debug\net5.0\entrevista2.deps.json
+C:\Users\Greed\projectsC#\entrevista2\bin\Debug\net5.0\entrevista2.runtimeconfig.json
+C:\Users\Greed\projectsC#\entrevista2\bin\Debug\net5.0\entrevista2.runtimeconfig.dev.json
+C:\Users\Greed\projectsC#\entrevista2\bin\Debug\net5.0\entrevista2.dll
+C:\Users\Greed\projectsC#\entrevista2\bin\Debug\net5.0\ref\entrevista2.dll
+C:\Users\Greed\projectsC#\entrevista2\bin\Debug\net5.0\entrevista2.pdb
+C:\Users\Greed\projectsC#\entrevista2\obj\Debug\net5.0\entrevista2.dll
+C:\Users\Greed\projectsC#\entrevista2\obj\Debug\net5.0\ref\entrevista2.dll
+C:\Users\Greed\projectsC#\entrevista2\obj\Debug\net5.0\entrevista2.pdb
+C:\Users\Greed\projectsC#\entrevista2\obj\Debug\net5.0\entrevista2.genruntimeconfig.cache

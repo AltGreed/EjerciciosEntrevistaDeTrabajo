@@ -1,0 +1,16 @@
+C:\Users\Greed\projectsC#\entrevista1\bin\Debug\net5.0\entrevista1.exe
+C:\Users\Greed\projectsC#\entrevista1\bin\Debug\net5.0\entrevista1.deps.json
+C:\Users\Greed\projectsC#\entrevista1\bin\Debug\net5.0\entrevista1.runtimeconfig.json
+C:\Users\Greed\projectsC#\entrevista1\bin\Debug\net5.0\entrevista1.runtimeconfig.dev.json
+C:\Users\Greed\projectsC#\entrevista1\bin\Debug\net5.0\entrevista1.dll
+C:\Users\Greed\projectsC#\entrevista1\bin\Debug\net5.0\ref\entrevista1.dll
+C:\Users\Greed\projectsC#\entrevista1\bin\Debug\net5.0\entrevista1.pdb
+C:\Users\Greed\projectsC#\entrevista1\obj\Debug\net5.0\entrevista1.csproj.AssemblyReference.cache
+C:\Users\Greed\projectsC#\entrevista1\obj\Debug\net5.0\entrevista1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Greed\projectsC#\entrevista1\obj\Debug\net5.0\entrevista1.AssemblyInfoInputs.cache
+C:\Users\Greed\projectsC#\entrevista1\obj\Debug\net5.0\entrevista1.AssemblyInfo.cs
+C:\Users\Greed\projectsC#\entrevista1\obj\Debug\net5.0\entrevista1.csproj.CoreCompileInputs.cache
+C:\Users\Greed\projectsC#\entrevista1\obj\Debug\net5.0\entrevista1.dll
+C:\Users\Greed\projectsC#\entrevista1\obj\Debug\net5.0\ref\entrevista1.dll
+C:\Users\Greed\projectsC#\entrevista1\obj\Debug\net5.0\entrevista1.pdb
+C:\Users\Greed\projectsC#\entrevista1\obj\Debug\net5.0\entrevista1.genruntimeconfig.cache
